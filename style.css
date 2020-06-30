@@ -169,6 +169,10 @@ body {
     margin-left: 20px;
 }
 
+.letras1 b {
+    color: #172268;
+}
+
 .desc1 h2 {
     font-size: 45px;
 }
@@ -201,8 +205,6 @@ body {
 .letras2 b
 {
     color: #172268;
-
-
 }
 
 .desc2 h2 {
